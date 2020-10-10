@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,36 +154,96 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="On Select-Option Added">
+      <created>1602338493242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602338493243</updated>
+    </task>
+    <task id="LOCAL-00002" summary="StartINfo Activity Complete">
+      <created>1602339336097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602339336097</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/Slim/Desktop/Web &amp; Dev/Apps/Android-CandyCodedApplication/app/src/test/java/com/pluralsight/candycoded" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="On Select-Option Added" />
+    <MESSAGE value="StartINfo Activity Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="StartINfo Activity Complete" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1602338258412">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1602339577473">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602338258412" />
-    <state x="205" y="0" key="CommitChangelistDialog2" timestamp="1602338463297">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1602339577473" />
+    <state x="205" y="0" key="CommitChangelistDialog2" timestamp="1602339334612">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="205" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602338463297" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1602338463502">
+    <state x="205" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602339334612" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1602340749727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602338463502" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1602338463502">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602340749727" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1602340749727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602338463502" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1602338463502">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602340749727" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1602340749726">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602338463502" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1602338463502">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602340749726" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1602340749727">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602338463502" />
-    <state x="339" y="5" width="672" height="676" key="search.everywhere.popup" timestamp="1602338038926">
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602340749727" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2" timestamp="1602339344223">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="5" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602338038926" />
+    <state x="275" y="95" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602339344223" />
+    <state x="339" y="5" width="672" height="676" key="search.everywhere.popup" timestamp="1602340606350">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="5" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602340606350" />
   </component>
 </project>
